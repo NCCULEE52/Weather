@@ -1,0 +1,31 @@
+.container-fluid{
+	margin-top:10px;
+}
+.date{
+	font-weight: bold;
+}
+.temperature{
+	font-size:5em;
+}
+#B{
+
+	position: relative;
+	/*left: 520px;*/
+	display: inline-block;
+	border: 3px solid silver;
+	/*margin-left: auto;*/
+	/*margin-right: auto;*/
+	align-items: center;
+	justify-content: right;
+}
+footer > p  {
+	align-items: center;
+	justify-content: right;
+	color:black;
+	/*margin-left: 530px;*/
+}
+.result {
+	font-size: 20px;
+	font-weight: bold;
+	color: blue;
+}
